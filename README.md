@@ -51,8 +51,21 @@ Pre-built rerouting recommendations ready to approve and execute atomically via 
 
 This repo contains the concept UI — a static HTML/CSS mockup of the SentinelAI dashboard built as part of the Mantle ecosystem submission.
 
-Actual backend development is in progress.
-
 ---
+
+## SentinelAI (Backend Prototype)
+
+AI-powered DeFi risk monitoring engine.
+
+## Features
+- Real-time risk scoring
+- Early warning detection
+- Action suggestion (asset rerouting)
+
+## Run
+```bash
+python sentinelAI.py
+```
+
 
 *Built for the Mantle ecosystem. Concept submission tagging @Mantle_Official.*
